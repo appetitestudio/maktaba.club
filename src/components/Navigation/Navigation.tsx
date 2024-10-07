@@ -7,7 +7,8 @@ function Navigation() {
       <nav className="flex items-center space-x-4">
         {[
           ['Notion', 'https://www.notion.so/appetitestudio/Maktaba-Club-1130c02b1ead80d0bb7af4307824838e'],
-          ['ETH Bootcamp Apply', 'https://tally.so/r/mVMPKM'],
+          ['ETH Bootcamp Apply', '/eth-apply'],
+
         ].map(([title, url]) => (
           <a 
             key={title} 
