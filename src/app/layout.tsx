@@ -11,7 +11,7 @@ const inter = Inter({
 
 export const metadata = {
   title: "maktaba.club",
-  description: "Empowering your tech journey through expert mentorship and hands-on learning."}
+  description: "A future-oriented space for everyone. expert mentorship and hands-on learning."}
 
 export default function RootLayout({
   children,
